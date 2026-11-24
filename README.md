@@ -39,14 +39,16 @@ scientific_calculator/
 ```
 ---
 
-Getting Started
-Prerequisites
-Flutter SDK and Dart installed
+## Getting Started
 
-An IDE such as VS Code or Android Studio with Flutter/Dart extensions
+### Prerequisites
+- Flutter SDK and Dart installed
+- An IDE such as VS Code or Android Studio with Flutter/Dart extensions
 
-Run Locally
-Bash
+### Run Locally
+```bash
 git clone [https://github.com/beyzaavcii/scientific_calculator.git](https://github.com/beyzaavcii/scientific_calculator.git)
 cd scientific_calculator
 flutter pub get
+flutter run
+```
